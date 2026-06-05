@@ -48,11 +48,11 @@ Investigation of factors associated with missed appointments, including waiting 
 
 ---
 
-### Project 3: Workforce Analysis *(In Progress)*
+### Project 3: Workforce Analysis
 
 Analysis of multidisciplinary workforce utilisation across NHS primary care services.
 
-**Planned skills**
+**Skills demonstrated**
 
 * Workforce analytics
 * Operational modelling
@@ -60,17 +60,19 @@ Analysis of multidisciplinary workforce utilisation across NHS primary care serv
 
 ---
 
-### Project 4: Demand Forecasting *(Planned)*
+### Project 4: Demand Forecasting
 
 Forecasting future appointment demand using time-series modelling techniques.
 
-**Planned skills**
+**Skills demonstrated**
 
 * Forecasting
 * Predictive analytics
-* ARIMA
-* Prophet
 * Time-series modelling
+* Exponential Smoothing
+* Healthcare analytics
+* Capacity planning
+* Data visualisation
 
 ---
 
