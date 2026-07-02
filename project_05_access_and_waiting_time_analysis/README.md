@@ -306,7 +306,7 @@ project_05_access_waiting_time_analysis
 
 
 
-*\*Project 6: Primary Care Performance Dashboard (Capstone Project)\*\*
+**Project 6: Primary Care Performance Dashboard (Capstone Project)**
 
 
 
