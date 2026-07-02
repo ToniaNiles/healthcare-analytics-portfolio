@@ -117,14 +117,14 @@ This project aimed to answer the following questions:
 * Analytical storytelling
 
 
+## Repository Structure
 
-## Files
+```text
+project_03_workforce_utilisation
+│
+├── 03_workforce_utilisation_analysis.ipynb
+└── README.md
 
-
-
-* `03\_workforce\_utilisation\_analysis.ipynb` — Full analysis notebook
-
-* `README.md` — Project documentation
 
 
 

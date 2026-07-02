@@ -109,14 +109,13 @@ This project aimed to answer the following questions:
 * Analytical storytelling
 
 
+## Repository Structure
 
-## Files
-
-
-
-* `02\_dna\_analysis.ipynb` — Full analysis notebook
-
-* `README.md` — Project documentation
+```text
+project_02_dna_analysis
+│
+├── 02_dna_analysis.ipynb
+└── README.md
 
 
 

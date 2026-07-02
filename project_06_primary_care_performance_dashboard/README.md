@@ -214,27 +214,27 @@ Screenshots of each dashboard page are available in the `screenshots/` folder.
 
 ```text
 
-project\_06\_powerbi\_dashboard/
+project_06_powerbi_dashboard/
 
 │
 
 ├── README.md
 
-├── Primary\_Care\_Performance\_Dashboard.pbix
+├── Primary_Care_Performance_Dashboard.pbix
 
-├── data\_dictionary.md
+├── data_dictionary.md
 
 └── screenshots/
 
-&#x20;   ├── executive\_overview.png
+&#x20;   ├── executive_overview.png
 
-&#x20;   ├── appointment\_demand.png
+&#x20;   ├── appointment_demand.png
 
-&#x20;   ├── dna\_analysis.png
+&#x20;   ├── dna_analysis.png
 
-&#x20;   ├── workforce\_utilisation.png
+&#x20;   ├── workforce_utilisation.png
 
-&#x20;   └── access\_waiting\_times.png
+&#x20;   └── access_waiting_times.png
 
 ```
 

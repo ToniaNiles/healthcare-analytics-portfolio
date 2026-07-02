@@ -185,7 +185,7 @@ This project extends those insights by forecasting future demand and exploring h
 ## Repository Structure
 
 ```text
-project_04_demand_forecasting/
+project_04_demand_forecasting
 │
 ├── 04_demand_forecasting.ipynb
 └── README.md

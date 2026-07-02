@@ -290,11 +290,11 @@ This project extends those findings by examining patient access to care and iden
 
 ```text
 
-project\_05\_access\_waiting\_time\_analysis/
+project_05_access_waiting_time_analysis
 
 │
 
-├── 05\_access\_waiting\_time\_analysis.ipynb
+├── 05_access_waiting_time_analysis.ipynb
 
 └── README.md
 
