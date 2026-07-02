@@ -1,8 +1,8 @@
-\# Workforce Utilisation Analysis
+# Workforce Utilisation Analysis
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,11 +10,11 @@ Primary care services increasingly rely on multidisciplinary teams to manage pat
 
 
 
-The analysis examines workforce share, utilisation trends, same-day demand, appointment delivery methods, and appointment outcomes to understand better how workforce resources are used.
+The analysis examines workforce share, utilisation trends, same-day demand, appointment delivery methods, and appointment outcomes to better understand how workforce resources are used.
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -26,25 +26,25 @@ Key variables used:
 
 
 
-\* APPOINTMENT\_MONTH
+* APPOINTMENT\_MONTH
 
-\* HCP\_TYPE
+* HCP\_TYPE
 
-\* APPT\_MODE
+* APPT\_MODE
 
-\* APPT\_STATUS
+* APPT\_STATUS
 
-\* TIME\_BETWEEN\_BOOK\_AND\_APPT
+* TIME\_BETWEEN\_BOOK\_AND\_APPT
 
-\* COUNT\_OF\_APPOINTMENTS
-
-
-
-\*\*Note:\*\* The dataset categorises healthcare professionals as either GPs or Other Practice Staff. The latter may include nurses, pharmacists, physician associates, and other multidisciplinary team members, although a detailed breakdown is not provided.
+* COUNT\_OF\_APPOINTMENTS
 
 
 
-\## Objectives
+*\*Note:\*\* The dataset categorises healthcare professionals as either GPs or Other Practice Staff. The latter may include nurses, pharmacists, physician associates, and other multidisciplinary team members, although a detailed breakdown is not provided.
+
+
+
+## Objectives
 
 
 
@@ -64,71 +64,71 @@ This project aimed to answer the following questions:
 
 
 
-\## Tools \& Libraries
+## Tools \& Libraries
 
 
 
-\* Python
+* Python
 
-\* pandas
+* pandas
 
-\* matplotlib
+* matplotlib
 
-\* Jupyter Notebook
-
-
-
-\## Key Findings
+* Jupyter Notebook
 
 
 
-\* GPs delivered 51.7% of all appointments, compared with 46.0% for Other Practice Staff.
-
-\* Workforce utilisation remained stable throughout the study period.
-
-\* October repeatedly showed unusual utilisation patterns across multiple years.
-
-\* GPs delivered 63.3% of same-day appointments, indicating a greater role in urgent demand.
-
-\* Other Practice Staff delivered a higher proportion of appointments face-to-face.
-
-\* GPs relied more heavily on telephone consultations.
-
-\* Appointments delivered by Other Practice Staff recorded a DNA rate of 5.11%, compared with 2.46% for GP appointments.
+## Key Findings
 
 
 
-\## Key Skills Demonstrated
+* GPs delivered 51.7% of all appointments, compared with 46.0% for Other Practice Staff.
+
+* Workforce utilisation remained stable throughout the study period.
+
+* October repeatedly showed unusual utilisation patterns across multiple years.
+
+* GPs delivered 63.3% of same-day appointments, indicating a greater role in urgent demand.
+
+* Other Practice Staff delivered a higher proportion of appointments face-to-face.
+
+* GPs relied more heavily on telephone consultations.
+
+* Appointments delivered by Other Practice Staff recorded a DNA rate of 5.11%, compared with 2.46% for GP appointments.
 
 
 
-\* Workforce analytics
-
-\* Healthcare operations analysis
-
-\* KPI development
-
-\* Comparative analysis
-
-\* Trend analysis
-
-\* Data visualisation
-
-\* Analytical storytelling
+## Key Skills Demonstrated
 
 
 
-\## Files
+* Workforce analytics
+
+* Healthcare operations analysis
+
+* KPI development
+
+* Comparative analysis
+
+* Trend analysis
+
+* Data visualisation
+
+* Analytical storytelling
 
 
 
-\* `03\_workforce\_utilisation\_analysis.ipynb` — Full analysis notebook
-
-\* `README.md` — Project documentation
+## Files
 
 
 
-\## Conclusion
+* `03\_workforce\_utilisation\_analysis.ipynb` — Full analysis notebook
+
+* `README.md` — Project documentation
+
+
+
+## Conclusion
 
 
 

@@ -1,8 +1,8 @@
-\# Primary Care Performance Dashboard
+# Primary Care Performance Dashboard
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,15 +14,15 @@ The aim is to demonstrate how Power BI can transform healthcare data into action
 
 
 
-\---
+---
 
 
 
-\## Dashboard Pages
+## Dashboard Pages
 
 
 
-\### 1. Executive Overview
+### 1. Executive Overview
 
 
 
@@ -30,23 +30,23 @@ Provides a high-level summary of primary care performance using key performance 
 
 
 
-\- Total Appointments
+- Total Appointments
 
-\- Rapid Access Rate
+- Rapid Access Rate
 
-\- DNA Rate
+- DNA Rate
 
-\- GP Share
+- GP Share
 
-\- Monthly Appointment Demand
-
-
-
-\---
+- Monthly Appointment Demand
 
 
 
-\### 2. Appointment Demand
+---
+
+
+
+### 2. Appointment Demand
 
 
 
@@ -54,19 +54,19 @@ Analyses appointment demand across the reporting period through:
 
 
 
-\- Monthly appointment volume
+- Monthly appointment volume
 
-\- Appointments by appointment mode
+- Appointments by appointment mode
 
-\- Demand trends over time
-
-
-
-\---
+- Demand trends over time
 
 
 
-\### 3. DNA Analysis
+---
+
+
+
+### 3. DNA Analysis
 
 
 
@@ -74,21 +74,21 @@ Examines missed appointments by analysing:
 
 
 
-\- DNA Appointments
+- DNA Appointments
 
-\- DNA Rate
+- DNA Rate
 
-\- Appointment mode
+- Appointment mode
 
-\- Healthcare professional type
-
-
-
-\---
+- Healthcare professional type
 
 
 
-\### 4. Workforce Utilisation
+---
+
+
+
+### 4. Workforce Utilisation
 
 
 
@@ -96,23 +96,23 @@ Explores workforce contribution across NHS primary care by presenting:
 
 
 
-\- GP Share
+- GP Share
 
-\- GP Appointments
+- GP Appointments
 
-\- Other Practice Staff Share
+- Other Practice Staff Share
 
-\- Appointment distribution by healthcare professional type
+- Appointment distribution by healthcare professional type
 
-\- Appointment mode by healthcare professional type
-
-
-
-\---
+- Appointment mode by healthcare professional type
 
 
 
-\### 5. Access \& Waiting Times
+---
+
+
+
+### 5. Access \& Waiting Times
 
 
 
@@ -120,21 +120,21 @@ Evaluates patient access to care through:
 
 
 
-\- Rapid Access Appointments
+- Rapid Access Appointments
 
-\- Rapid Access Rate
+- Rapid Access Rate
 
-\- Rapid Access Rate by appointment mode
+- Rapid Access Rate by appointment mode
 
-\- Rapid Access Rate by healthcare professional type
-
-
-
-\---
+- Rapid Access Rate by healthcare professional type
 
 
 
-\## Dataset
+---
+
+
+
+## Dataset
 
 
 
@@ -146,57 +146,57 @@ Reporting Period:
 
 
 
-\- October 2023 – March 2026
+- October 2023 – March 2026
 
 
 
-\---
+---
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- Power BI Desktop
+- Power BI Desktop
 
-\- Power Query
+- Power Query
 
-\- DAX
+- DAX
 
-\- Git \& GitHub
-
-
-
-\---
+- Git \& GitHub
 
 
 
-\## Key Features
+---
 
 
 
-\- Interactive dashboard navigation
-
-\- Dynamic KPI cards
-
-\- DAX measures
-
-\- Date slicers
-
-\- Executive summaries
-
-\- Operational insights
-
-\- Healthcare performance monitoring
+## Key Features
 
 
 
-\---
+- Interactive dashboard navigation
+
+- Dynamic KPI cards
+
+- DAX measures
+
+- Date slicers
+
+- Executive summaries
+
+- Operational insights
+
+- Healthcare performance monitoring
 
 
 
-\## Dashboard Screenshots
+---
+
+
+
+## Dashboard Screenshots
 
 
 
@@ -204,11 +204,11 @@ Screenshots of each dashboard page are available in the `screenshots/` folder.
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -240,11 +240,11 @@ project\_06\_powerbi\_dashboard/
 
 
 
-\---
+---
 
 
 
-\## Key Outcome
+## Key Outcome
 
 
 

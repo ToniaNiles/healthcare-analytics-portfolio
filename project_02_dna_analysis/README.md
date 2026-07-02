@@ -1,20 +1,16 @@
-\# DNA (Did Not Attend) Analysis
+# DNA (Did Not Attend) Analysis
 
 
-
-\## Overview
-
+## Overview
 
 
 Patient non-attendance represents a significant challenge for healthcare providers, affecting service efficiency, appointment availability, and resource utilisation. This project investigates patterns in missed appointments within NHS primary care services across Hertfordshire and West Essex.
 
 
-
 The analysis focuses on identifying factors associated with higher DNA rates and understanding how appointment characteristics influence patient attendance behaviour.
 
 
-
-\## Dataset
+## Dataset
 
 
 
@@ -26,21 +22,21 @@ Key variables used:
 
 
 
-\* APPOINTMENT\_MONTH
+* APPOINTMENT\_MONTH
 
-\* APPT\_STATUS
+* APPT\_STATUS
 
-\* APPT\_MODE
+* APPT\_MODE
 
-\* TIME\_BETWEEN\_BOOK\_AND\_APPT
+* TIME\_BETWEEN\_BOOK\_AND\_APPT
 
-\* HCP\_TYPE
+* HCP\_TYPE
 
-\* COUNT\_OF\_APPOINTMENTS
+* COUNT\_OF\_APPOINTMENTS
 
 
 
-\## Objectives
+## Objectives
 
 
 
@@ -60,72 +56,71 @@ This project aimed to answer the following questions:
 
 
 
-\## Tools \& Libraries
+## Tools \& Libraries
 
 
 
-\* Python
+* Python
 
-\* pandas
+* pandas
 
-\* matplotlib
+* matplotlib
 
-\* Jupyter Notebook
-
-
-
-\## Key Findings
+* Jupyter Notebook
 
 
 
-\* Overall DNA rates remained relatively low throughout the study period.
-
-\* Waiting time was strongly associated with non-attendance.
-
-\* Same-day appointments recorded the lowest DNA rates.
-
-\* DNA rates increased consistently as waiting times lengthened.
-
-\* Monthly DNA rates remained relatively stable over time.
-
-\* October recorded elevated DNA rates across multiple years, suggesting a recurring seasonal pattern.
-
-\* Differences associated with waiting times were more pronounced than differences associated with appointment modes.
+## Key Findings
 
 
 
-\## Key Skills Demonstrated
+* Overall DNA rates remained relatively low throughout the study period.
+
+* Waiting time was strongly associated with non-attendance.
+
+* Same-day appointments recorded the lowest DNA rates.
+
+* DNA rates increased consistently as waiting times lengthened.
+
+* Monthly DNA rates remained relatively stable over time.
+
+* October recorded elevated DNA rates across multiple years, suggesting a recurring seasonal pattern.
+
+* Differences associated with waiting times were more pronounced than differences associated with appointment modes.
 
 
 
-\* Healthcare analytics
-
-\* Attendance behaviour analysis
-
-\* KPI development
-
-\* Comparative analysis
-
-\* Data visualisation
-
-\* Trend analysis
-
-\* Analytical storytelling
+## Key Skills Demonstrated
 
 
 
-\## Files
+* Healthcare analytics
+
+* Attendance behaviour analysis
+
+* KPI development
+
+* Comparative analysis
+
+* Data visualisation
+
+* Trend analysis
+
+* Analytical storytelling
 
 
 
-\* `02\_dna\_analysis.ipynb` — Full analysis notebook
-
-\* `README.md` — Project documentation
+## Files
 
 
 
-\## Conclusion
+* `02\_dna\_analysis.ipynb` — Full analysis notebook
 
+* `README.md` — Project documentation
+
+
+
+## Conclusion
 
 
 The analysis identified waiting time as one of the strongest factors associated with patient non-attendance. Patients offered appointments sooner were more likely to attend, while longer waiting periods were associated with higher DNA rates. These findings highlight the importance of timely access to care in reducing missed appointments and improving service efficiency.
