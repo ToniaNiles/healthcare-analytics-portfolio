@@ -13,7 +13,7 @@ The aim of this portfolio is to demonstrate practical healthcare analytics skill
 * NumPy
 * matplotlib
 * Jupyter Notebook
-* Power BI (planned)
+* Power BI 
 * Git & GitHub
 
 ---
@@ -76,27 +76,33 @@ Forecasting future appointment demand using time-series modelling techniques.
 
 ---
 
-### Project 5: Regional Benchmarking *(Planned)*
+### Project 5: Access & Waiting Times Analysis
 
-Comparison of NHS regions to identify variation in demand, access, and appointment delivery.
+Analysis of how quickly patients accessed NHS primary care appointments, focusing on same-day and next-day access, waiting time categories, appointment modes, healthcare professional types, and monthly access patterns.
 
-**Planned skills**
+**Skills demonstrated**
 
-* Benchmarking
-* Comparative analytics
-* Health systems analysis
+* Access analysis
+* Waiting time analysis
+* KPI development
+* Healthcare operations analysis
+* Comparative analysis
+* Data visualisation
 
 ---
 
-### Project 6: Operational Dashboard *(Planned)*
+### Project 6: Primary Care Performance Dashboard
 
-Interactive dashboard for monitoring NHS primary care performance indicators.
+Development of an interactive Power BI dashboard to monitor NHS primary care performance through executive KPIs, appointment demand, DNA analysis, workforce utilisation, and access to care.
 
-**Planned skills**
+**Skills demonstrated**
 
 * Power BI
-* Dashboard design
+* Dashboard development
+* DAX measures
 * KPI reporting
+* Interactive data visualisation
+* Healthcare performance monitoring
 * Stakeholder communication
 
 ---
@@ -110,10 +116,9 @@ healthcare-analytics-portfolio/
 ├── project_02_dna_analysis/
 ├── project_03_workforce_analysis/
 ├── project_04_demand_forecasting/
-├── project_05_regional_benchmarking/
-└── project_06_operational_dashboard/
+├── project_05_access_waiting_times/
+└── project_06_powerbi_dashboard/
 ```
-
 ---
 
 ## About
